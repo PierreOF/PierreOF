@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?         font=Play&vCenter=true&center=true&size=50&pause=1000&color=C8F713&width=700&height=65&lines=Ol%C3%A1+%2C+eu+me+chamo+Pierre+;Seja+Bem-Vindo(a)+!+👋)]     (https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&vCenter=true&center=true&size=50&pause=1000&color=C8F713&width=700&height=65&lines=Ol%C3%A1+%2C+eu+me+chamo+Pierre+;Seja+Bem-Vindo(a)+!+👋)](https://git.io/typing-svg)
 
 
 <div align="center">
