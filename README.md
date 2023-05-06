@@ -3,9 +3,3 @@
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PierreOF&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
-
-## Tecnologias usadas no meu dia a dia 
-
-<div style="display: flex; justify-content: space-between;"> <br>
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
