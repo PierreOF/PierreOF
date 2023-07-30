@@ -15,3 +15,4 @@
 
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PierreOF&show_icons=true&theme=merko#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreOF&theme=merko&size_weight=0.5&count_weight=0.5)
