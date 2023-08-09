@@ -13,6 +13,7 @@
 
 ## 
 
-
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PierreOF&show_icons=true&theme=merko#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreOF&theme=merko&size_weight=0.5&count_weight=0.5)
+<div align="left">
+  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=PierreOF&show_icons=true&theme=merko&bg_color=000000"/>
+  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=PierreOF&layout=compact&show_icons=true&theme=merko&bg_color=000000"/>
+</div>
